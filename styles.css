@@ -1,0 +1,45 @@
+#main {
+    background-color: #eeeeee;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#title {
+    text-align: center;
+}
+#main p {
+    text-align: center;
+}
+#img-div {
+    display: block;
+    
+    background-color: white;
+    width: auto;
+    text-align: center;
+
+}
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+#info-title {
+    text-align: center;
+}
+#info {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+ul {
+    align-items: center;
+    margin: 20px 0;
+    max-width: 550px;
+}
+li {
+    align-items: center;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
