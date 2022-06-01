@@ -1,5 +1,6 @@
 #main {
-    background-color: #eeeeee;
+    background-color: #736034;
+    background-image: linear-gradient(62deg, #736034 0%, #e59417 33%, #8e7421 66%, #af7d7d 100%);
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -12,7 +13,9 @@
 #img-div {
     display: block;
     
-    background-color: white;
+    background-color: #736034;
+    background-image: linear-gradient(62deg, #736034 0%, #e59417 33%, #8e7421 66%, #af7d7d 100%);
+    border: 1px solid black;
     width: auto;
     text-align: center;
 
