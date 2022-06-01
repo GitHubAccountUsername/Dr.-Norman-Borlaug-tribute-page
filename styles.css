@@ -3,6 +3,8 @@
     background-image: linear-gradient(62deg, #736034 0%, #e59417 33%, #8e7421 66%, #af7d7d 100%);
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
 }
 #title {
     text-align: center;
